@@ -1,0 +1,4 @@
+# useEffect is a React Hook that manages side effects in functional components. Side effects are operations that interact with the outside world, such as fetching data, setting up subscriptions, or directly manipulating the DOM. 
+
+# In useEffect hook we can't use the useEffect hook inside the conditional statement but we use the conditional statement inside the useEffect hook.
+
